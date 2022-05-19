@@ -71,7 +71,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
     {
@@ -80,7 +80,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
     {
@@ -89,7 +89,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
     {
@@ -98,7 +98,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
     {
@@ -107,7 +107,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
     {
@@ -116,7 +116,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
     {
@@ -125,7 +125,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
     {
@@ -134,7 +134,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
     {
@@ -143,7 +143,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
     {
@@ -152,7 +152,7 @@ export const userData = [
       avatar:
         "https://images.pexels.com/photos/1152994/pexels-photo-1152994.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       email: "jon@gmail.com",
-      status: "active",
+      status: "activo",
       transaction: "$120.00",
     },
   ];
@@ -164,7 +164,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
     {
@@ -173,7 +173,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
     {
@@ -182,7 +182,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
     {
@@ -191,7 +191,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
     {
@@ -200,7 +200,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
     {
@@ -209,7 +209,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
     {
@@ -218,7 +218,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
     {
@@ -227,7 +227,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
     {
@@ -236,7 +236,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
     {
@@ -245,7 +245,7 @@ export const userData = [
       img:
         "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       stock: 123,
-      status: "active",
+      status: "activo",
       price: "$120.00",
     },
   ];
